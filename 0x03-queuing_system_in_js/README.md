@@ -1,1 +1,1 @@
-README FOR THIS DIRECTORY
+README for this directory
